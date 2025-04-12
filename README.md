@@ -39,7 +39,7 @@ Note: The data is assumed to be either public domain or anonymized for academic 
 📌 Insights Extracted
 Obesity is significantly correlated with high calorie intake and poor nutrition choices.
 
-Gender-based differences in BMI and obesity levels are observed.
+Gender based differences in BMI and obesity levels are observed.
 
 Calorie distribution among different groups shows strong deviation from healthy ranges.
 
