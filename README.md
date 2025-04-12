@@ -27,3 +27,25 @@ This project is a comprehensive analysis of obesity and nutrition trends using P
 
 ---
 
+📚 Dataset Information
+The dataset used in this project includes information about nutrition intake, BMI, gender, and obesity levels.
+
+Source: https://catalog.data.gov/dataset/
+
+Note: The data is assumed to be either public domain or anonymized for academic use.
+
+---
+
+📌 Insights Extracted
+Obesity is significantly correlated with high calorie intake and poor nutrition choices.
+
+Gender-based differences in BMI and obesity levels are observed.
+
+Calorie distribution among different groups shows strong deviation from healthy ranges.
+
+---
+
+🤝 Contributing
+Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
+
+---
