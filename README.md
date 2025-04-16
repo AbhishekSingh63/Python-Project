@@ -1,19 +1,19 @@
 # Python-Project
-# 🥗 Obesity and Nutrition Data Analysis
+# Obesity and Nutrition Data Analysis
 
 This project is a comprehensive analysis of obesity and nutrition trends using Python and Jupyter Notebook. It explores key insights through data cleaning, visualization, and statistical evaluation. The goal is to uncover patterns in nutritional intake and obesity levels across various demographics.
 
 ---
 
-## 📊 Project Overview
+## Project Overview
 
-- 📁 **File Name:** `Obesity_Nutrition_Analysis.ipynb`
-- 📌 **Purpose:** Analyze and visualize obesity-related data to understand the impact of nutrition, gender, and lifestyle choices.
-- 📊 **Tech Stack:** Python, Pandas, Matplotlib, Seaborn, Jupyter Notebook
+-  **File Name:** `Obesity_Nutrition_Analysis.ipynb`
+-  **Purpose:** Analyze and visualize obesity-related data to understand the impact of nutrition, gender, and lifestyle choices.
+-  **Tech Stack:** Python, Pandas, Matplotlib, Seaborn, Jupyter Notebook
 
 ---
 
-## 🧠 Key Features
+##  Key Features
 
 - Data Cleaning and Preprocessing
 - Correlation Analysis
@@ -27,7 +27,7 @@ This project is a comprehensive analysis of obesity and nutrition trends using P
 
 ---
 
-📚 Dataset Information
+ Dataset Information
 The dataset used in this project includes information about nutrition intake, BMI, gender, and obesity levels.
 
 Source: https://catalog.data.gov/dataset/
@@ -36,7 +36,7 @@ Note: The data is assumed to be either public domain or anonymized for academic 
 
 ---
 
-📌 Insights Extracted
+ Insights Extracted
 Obesity is significantly correlated with high calorie intake and poor nutrition choices.
 
 Gender based differences in BMI and obesity levels are observed.
